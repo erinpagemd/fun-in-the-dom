@@ -15,3 +15,7 @@ for (i=0; i < h3s.length; i++) {
 // [].forEach.call(h3s, function(h3)){
 //  h3.textContent = h3.textContent.toUpperCase();
 // }
+
+
+var target = document.querySelector('.target');
+target.innerHTML = '<h2> OMG <a href="google.com">Google</a></h2>';
