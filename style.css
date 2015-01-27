@@ -15,5 +15,14 @@ h1 {
 }
 
 .steelblue {
-  color: blue;
+  color: steelblue;
 }
+
+.supergreen .superyellow {
+  color: lime;
+}
+
+img {
+  max-width: 100px;
+}
+
